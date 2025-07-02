@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year **BEng (Hons) Software Engineering** at **Staffordshire University,UK**
+- 🎓 Final-year **BEng (Hons) Software Engineering** at **Staffordshire University** 🇬🇧
 - 🏠 Based in **Colombo, Sri Lanka** 🇱🇰
 - 💼 Currently working on **eCommerce** and **Business Consultation** platforms
 - 🔥 Passionate about **Full-Stack Development**, **UI/UX Design**, and **Agile Methodologies**
