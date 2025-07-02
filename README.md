@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mihilayan-sachinthana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mihilayansachinthana@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://pearlprestige.shop" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://mihilayansachinthana.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,7 +23,8 @@ Beyond my core stack, I'm actively diving into **Python** to expand my skills in
 
 Here are some of the technologies and tools I frequently work with:
 
-**Languages & Frameworks** ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+**Languages & Frameworks** 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)  
@@ -31,13 +32,15 @@ Here are some of the technologies and tools I frequently work with:
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Livewire](https://img.shields.io/badge/-Livewire-orange?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Tools & Platforms** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+**Tools & Platforms**
+ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Core Web Technologies** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+**Core Web Technologies** 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -98,8 +101,8 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 **Email**: [mihilayansachinthana@gmail.com](mailto:mihilayansachinthana@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/mihilayan-sachinthana](https://www.linkedin.com/in/mihilayan-sachinthana)  
-- 🌐 **Portfolio**: Discover more about my work at [pearlprestige.shop](https://pearlprestige.shop)
+- 🌐 **Portfolio**: Discover more about my work at [mihilayansachinthana.com](https://mihilayansachinthana.com)
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
