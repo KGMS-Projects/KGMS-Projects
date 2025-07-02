@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Mihilayan+Sachinthana;Full-Stack+Developer+%26+Software+Engineer;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00706d&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Mihilayan+Sachinthana;Full-Stack+Developer+%26+Software+Engineer;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🎓 Final-year Software Engineering Undergraduate | 💻 Full-Stack Web & Mobile Developer</h3>
