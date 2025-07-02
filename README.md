@@ -1,94 +1,104 @@
-<h1 align="center">Hi 👋, I'm Mihilayan Sachinthana</h1>
-<h3 align="center">Final-year Software Engineering Undergraduate | Full-Stack Web & Mobile Developer</h3>
+<h1 align="center">Hey 👋, I'm Mihilayan Sachinthana</h1>
+<h3 align="center">A Passionate Full-Stack Web & Mobile Developer | Final-Year Software Engineering Undergraduate</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mihilayan-sachinthana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:mihilayansachinthana@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
-  <a href="https://pearlprestige.shop" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox" /></a>
+  <a href="https://www.linkedin.com/in/mihilayan-sachinthana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mihilayansachinthana@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://pearlprestige.shop" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Final-year BEng (Hons) Software Engineering student at **Staffordshire University**
-- 🌍 Based in **Colombo, Sri Lanka**
-- 👨‍💻 Currently working on **eCommerce and Business Consultation platforms**
-- 🔄 Passionate about **full-stack development**, **UI/UX**, and **Agile teamwork**
-- 🐍 Currently learning **Python** to expand into data scripting and automation
+### 🚀 About Me
+
+I'm a **final-year BEng (Hons) Software Engineering student** at **Staffordshire University**, based in **Colombo, Sri Lanka**. My passion lies in crafting robust and intuitive digital experiences, with a strong focus on **full-stack web and mobile development**.
+
+Currently, I'm immersed in building **eCommerce and Business Consultation platforms**, constantly exploring new ways to solve complex problems with elegant code. I'm a big believer in **Agile methodologies** and the power of great **UI/UX** to create truly impactful applications.
+
+Beyond my core stack, I'm actively diving into **Python** to expand my skills in data scripting and automation, always eager to broaden my horizons and tackle new challenges!
 
 ---
 
-### 🔧 Technologies I Use
+### 🛠️ My Toolkit
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)  
-![React](https://img.shields.io/badge/-React-black?logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) 
-![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel) 
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)  
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter)  
-![Livewire](https://img.shields.io/badge/-Livewire-orange?logo=laravel)
+Here are some of the technologies and tools I frequently work with:
 
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git) 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira)
+**Languages & Frameworks** ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)  
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)  
+![Livewire](https://img.shields.io/badge/-Livewire-orange?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Other**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+**Tools & Platforms** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Core Web Technologies** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-### 📂 Featured Projects
+### 💡 Featured Projects
+
+Here's a glimpse into some of my recent work:
 
 #### 💎 Pearl & Prestige – Luxury E-Commerce Website
-> Live: [pearlprestige.shop](https://pearlprestige.shop)  
-> GitHub: [GitHub Repo](https://github.com/KGMS-Projects/Pearl-Prestige--Shop.git)  
-**Tech:** Laravel, Livewire, Jetstream  
-- Full-featured online fashion store with cart, checkout, and admin dashboard
+> A sophisticated online fashion store offering a seamless shopping experience.
+> - **Live:** [pearlprestige.shop](https://pearlprestige.shop)
+> - **GitHub:** [GitHub Repo](https://github.com/KGMS-Projects/Pearl-Prestige--Shop.git)
+> - **Tech Stack:** Laravel, Livewire, Jetstream
+> - **Highlights:** Full-featured cart, secure checkout, comprehensive admin dashboard for managing products and orders.
 
 ---
 
 #### 💼 VentureSpark – Business Consultation Platform
-> Live: [venture-spark.vercel.app](https://venture-spark.vercel.app)  
-> GitHub: [GitHub Repo](https://github.com/APIIT-CC-Asignment/-VentureSpark.git)  
-**Tech:** Next.js, Tailwind CSS, REST APIs  
-- Booking platform for business consultants with session and schedule management
+> A dynamic booking platform connecting clients with expert business consultants.
+> - **Live:** [venture-spark.vercel.app](https://venture-spark.vercel.app)
+> - **GitHub:** [GitHub Repo](https://github.com/APIIT-CC-Asignment/-VentureSpark.git)
+> - **Tech Stack:** Next.js, Tailwind CSS, REST APIs
+> - **Highlights:** Intuitive session booking, efficient schedule management for consultants, responsive design.
 
 ---
 
 #### 🌍 Tour Guild Website – Ackli Holidays
-> Live: [ackliholidays.com](https://ackliholidays.com)  
-**Tech:** HTML, CSS, JavaScript  
-- Responsive tour booking website with clean layout and mobile support
+> A vibrant and responsive tour booking website designed to showcase Sri Lanka's beauty.
+> - **Live:** [ackliholidays.com](https://ackliholidays.com)
+> - **Tech Stack:** HTML, CSS, JavaScript
+> - **Highlights:** Clean layout, excellent mobile support, engaging user experience.
 
 ---
 
 #### ☕ Cafe Website
-> GitHub: [GitHub Repo](https://kgms-projects.github.io/Cafe-website/)  
-**Tech:** HTML, CSS, JavaScript  
-- Static website showcasing Sri Lankan café culture and ambiance
+> A static website capturing the essence of Sri Lankan café culture.
+> - **GitHub:** [GitHub Repo](https://kgms-projects.github.io/Cafe-website/)
+> - **Tech Stack:** HTML, CSS, JavaScript
+> - **Highlights:** Visually appealing design, showcasing ambiance and offerings.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGMS-Projects&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGMS-Projects&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KGMS-Projects&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mihilayan Sachinthana's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGMS-Projects&layout=compact&theme=radical&hide_border=true" alt="Mihilayan Sachinthana's Top Languages" height="180"/>
 </p>
 
 ---
 
-### 🌐 Let's Connect!
-- 📬 **Email**: [mihilayansachinthana@gmail.com](mailto:mihilayansachinthana@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/mihilayan-sachinthana](https://www.linkedin.com/in/mihilayan-sachinthana)  
-- 🌐 **Portfolio**: [pearlprestige.shop](https://pearlprestige.shop)
+### 🤝 Let's Connect!
+
+I'm always open to new opportunities and collaborations. Feel free to reach out!
+
+- 📧 **Email**: [mihilayansachinthana@gmail.com](mailto:mihilayansachinthana@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/mihilayan-sachinthana](https://www.linkedin.com/in/mihilayan-sachinthana)  
+- 🌐 **Portfolio**: Discover more about my work at [pearlprestige.shop](https://pearlprestige.shop)
 
 ---
 
