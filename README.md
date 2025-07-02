@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mihilayan Sachinthana</h1>
+<h1 align="center">Hi 👋, I'm Mihilayan Sachinthana</h1>
 <h3 align="center">Final-year Software Engineering Undergraduate | Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
@@ -13,14 +13,15 @@
 - 🎓 Final-year BEng (Hons) Software Engineering student at **Staffordshire University**
 - 🌍 Based in **Colombo, Sri Lanka**
 - 👨‍💻 Currently working on **eCommerce and Business Consultation platforms**
-- 🚀 Passionate about **full-stack development**, UI/UX, and **Agile teamwork**
-- 🔄 Experienced with **React, Laravel, Next.js, Flutter, and REST APIs**
+- 🔄 Passionate about **full-stack development**, **UI/UX**, and **Agile teamwork**
+- 🐍 Currently learning **Python** to expand into data scripting and automation
 
 ---
 
 ### 🔧 Technologies I Use
 
 **Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)  
 ![React](https://img.shields.io/badge/-React-black?logo=react) 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel) 
@@ -92,4 +93,3 @@
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
