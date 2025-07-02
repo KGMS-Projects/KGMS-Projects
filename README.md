@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mihilayan Sachinthana</h1>
+<h1 align="center">Hey 👋, I'm Mihilayan Sachinthana</h1>
 <h3 align="center">Final-year Software Engineering Undergraduate | Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
