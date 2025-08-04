@@ -1,232 +1,249 @@
 <div align="center">
-  <!-- Dynamic Typing SVG with enhanced visual effects -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38BDF8&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Mihilayan+Sachinthana;Full-Stack+Developer+%26+Software+Engineer;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
-  
-  <!-- Animated title with gradient -->
-  <h1 style="margin-top: 20px; background: linear-gradient(45deg, #38BDF8, #0EA5E9, #0284C7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientShift 3s ease infinite;">
-    🎓 Final-year Software Engineering Undergraduate | 💻 Full-Stack Developer
-  </h1>
-  
-  <!-- Profile Stats with animated counters -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
-    <div style="display: flex; align-items: center;">
-      <img src="https://komarev.com/ghpvc/?username=KGMS-Projects&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    </div>
-    <div style="display: flex; align-items: center;">
-      <img src="https://img.shields.io/github/followers/KGMS-Projects?label=Followers&style=social" alt="GitHub Followers" />
-    </div>
-  </div>
-  
-  <!-- Social Links with hover effects -->
-  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 25px; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com/in/mihilayan-sachinthana" target="_blank" style="transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:mihilayansachinthana@gmail.com" style="transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-    </a>
-    <a href="https://mihilayansachinthana.com" target="_blank" style="transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF6D00" alt="Portfolio"/>
-    </a>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mihilayan%20Sachinthana&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-<!-- Animated divider -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Mihilayan+Sachinthana;Full-Stack+Developer+%26+Software+Engineer;Building+Digital+Experiences+%F0%9F%9A%80;Turning+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<h2 align="center">🎓 Final-year Software Engineering Undergraduate | 💻 Full-Stack Web & Mobile Developer</h2>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KGMS-Projects&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KGMS-Projects?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/KGMS-Projects?label=Stars&style=social" alt="GitHub Stars" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mihilayan-sachinthana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mihilayansachinthana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://mihilayansachinthana.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 About Me
-<div style="background: rgba(14, 165, 233, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid #0EA5E9;">
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 12px;">🎓 <strong>Education:</strong> Final-year BEng (Hons) Software Engineering at University of Staffordshire 🇬🇧</li>
-    <li style="margin-bottom: 12px;">📍 <strong>Location:</strong> Based in Colombo, Sri Lanka 🇱🇰</li>
-    <li style="margin-bottom: 12px;">💼 <strong>Current Focus:</strong> Building eCommerce platforms and Business Consultation solutions</li>
-    <li style="margin-bottom: 12px;">🔥 <strong>Passions:</strong> Full-Stack Development, UI/UX Design, and Agile Methodologies</li>
-    <li style="margin-bottom: 12px;">🐍 <strong>Expanding Skills:</strong> Python for data automation and scripting</li>
-    <li style="margin-bottom: 12px;">🌱 <strong>Learning Philosophy:</strong> Continuously exploring new technologies and methodologies</li>
-    <li style="margin-bottom: 12px;">💬 <strong>Expertise:</strong> Ask me about React, Laravel, Flutter, or Full-Stack Development</li>
-    <li>⚡ <strong>Fun Fact:</strong> I believe great code is like a good joke - if you have to explain it, it's probably not that good!</li>
-  </ul>
-</div>
 
-<!-- Animated divider -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+- 🎓 Final-year **BEng (Hons) Software Engineering** at **University of Staffordshire** 🇬🇧
+- 🏠 Based in **Colombo, Sri Lanka** 🇱🇰  
+- 💼 Currently working on **eCommerce** and **Business Consultation** platforms
+- 🔥 Passionate about **Full-Stack Development**, **UI/UX Design**, and **Agile Methodologies**
+- 🐍 Expanding skills in **Python** for data automation and scripting
+- 🌱 Always learning and exploring new technologies
+- 💬 Ask me about **React**, **Laravel**, **Flutter**, or **Full-Stack Development**
+- ⚡ Fun fact: I believe great code is like a good joke - if you have to explain it, it's probably not that good!
+- 🎯 2025 Goals: Contribute to Open Source projects and build impactful applications
+- 📧 Reach me at: **mihilayansachinthana@gmail.com**
+
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center" style="margin-top: 30px;">
-
-### 🔮 Frontend Technologies
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
 </div>
 
-### ⚙️ Backend Technologies
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+### 🌟 Dynamic Skills Showcase
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind,laravel,nodejs,python,php,js,ts,dart,mysql,firebase,postgresql,docker,git,github,vscode&theme=dark&perline=10" alt="Tech Stack" />
 </div>
 
-### 💻 Programming Languages
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+### 🔥 Expertise Areas
+
+<div align="center">
+
+```text
+🚀 Frontend Magic     ████████████████████░   95%
+⚙️  Backend Mastery    ██████████████████░░░   90%
+📱 Mobile Development █████████████████░░░░   85%
+🗄️  Database Wizardry  ████████████████░░░░░   80%
+☁️  Cloud & DevOps     ██████████████░░░░░░░   75%
+🎨 UI/UX Design       █████████████████░░░░   85%
+```
+
 </div>
 
-### 🗃️ Databases & Cloud
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</div>
+### 💻 Languages & Frameworks
 
-### 🧰 Tools & Platforms
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-</div>
-</div>
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Arsenal&align=center&titleAlign=center&fontSize=20&lineCount=4&theme=github_dark&line1=React,react,61dafb;Next.js,nextjs,ffffff;Flutter,flutter,02569b;&line2=Laravel,laravel,ff2d20;Node.js,nodejs,339933;Python,python,3776ab;&line3=JavaScript,javascript,f7df1e;TypeScript,typescript,007acc;Dart,dart,0175c2;&line4=MySQL,mysql,4479a1;PostgreSQL,postgresql,336791;Firebase,firebase,ffca28;" alt="Tech Stack Cards" />
+</p>
 
-<!-- Animated divider -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Featured Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 20px;">
-
-<!-- Project Card 1 -->
-<div style="background: linear-gradient(145deg, #f0f9ff, #e0f2fe); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-left: 4px solid #38BDF8;">
-  <h3 align="center" style="margin-top: 0; color: #075985;">💎 Pearl & Prestige</h3>
-  <div align="center" style="margin: 15px 0;">
-    <a href="https://pearlprestige.shop" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-    </a>
-    <a href="https://github.com/KGMS-Projects/Pearl-Prestige--Shop.git" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </div>
-  <p style="text-align: center; margin: 10px 0;"><strong>Laravel • Livewire • Jetstream</strong></p>
-  <p>Luxury e-commerce platform with advanced cart management, secure checkout, and comprehensive admin dashboard.</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KGMS-Projects&repo=Pearl-Prestige--Shop&theme=tokyonight&hide_border=true" alt="Pearl & Prestige" />
+        </div>
+        <h3 align="center">💎 Pearl & Prestige</h3>
+        <div align="center">  
+          <a href="https://pearlprestige.shop" target="_blank">
+            <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+          </a>
+          <a href="https://github.com/KGMS-Projects/Pearl-Prestige--Shop.git" target="_blank">
+            <img src="https://img.shields.io/badge/📂_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+        </div>
+        <br>
+        <p align="center"><strong>🔧 Laravel • Livewire • Jetstream • MySQL</strong></p>
+        <p align="center">Luxury e-commerce platform with advanced cart management, secure checkout, and comprehensive admin dashboard. Features real-time inventory tracking and payment integration.</p>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=APIIT-CC-Asignment&repo=-VentureSpark&theme=tokyonight&hide_border=true" alt="VentureSpark" />
+        </div>
+        <h3 align="center">💼 VentureSpark</h3>
+        <div align="center">
+          <a href="https://venture-spark.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+          </a>
+          <a href="https://github.com/APIIT-CC-Asignment/-VentureSpark.git" target="_blank">
+            <img src="https://img.shields.io/badge/📂_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+        </div>
+        <br>
+        <p align="center"><strong>🔧 Next.js • TailwindCSS • REST APIs • Vercel</strong></p>
+        <p align="center">Business consultation platform with intelligent booking system and session management. Built with modern React architecture and responsive design.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🌍 Ackli Holidays</h3>
+        <div align="center">
+          <a href="https://ackliholidays.com" target="_blank">
+            <img src="https://img.shields.io/badge/🌐_Live_Demo-45B7D1?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+          </a>
+        </div>
+        <br>
+        <p align="center"><strong>🔧 HTML5 • CSS3 • JavaScript • Responsive Design</strong></p>
+        <p align="center">Responsive tour booking website with immersive design and seamless mobile experience. Features interactive galleries and booking forms.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">☕ Café Culture</h3>
+        <div align="center">
+          <a href="https://kgms-projects.github.io/Cafe-website/" target="_blank">
+            <img src="https://img.shields.io/badge/🌐_Live_Demo-D63384?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+          </a>
+        </div>
+        <br>
+        <p align="center"><strong>🔧 HTML5 • CSS3 • JavaScript • Animations</strong></p>
+        <p align="center">Interactive café website showcasing Sri Lankan coffee culture with elegant design patterns and smooth animations.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Project Card 2 -->
-<div style="background: linear-gradient(145deg, #f0fdf4, #dcfce7); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-left: 4px solid #10B981;">
-  <h3 align="center" style="margin-top: 0; color: #047857;">💼 VentureSpark</h3>
-  <div align="center" style="margin: 15px 0;">
-    <a href="https://venture-spark.vercel.app" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-    </a>
-    <a href="https://github.com/APIIT-CC-Asignment/-VentureSpark.git" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </div>
-  <p style="text-align: center; margin: 10px 0;"><strong>Next.js • TailwindCSS • REST APIs</strong></p>
-  <p>Business consultation platform with intelligent booking system and session management.</p>
-</div>
-
-<!-- Project Card 3 -->
-<div style="background: linear-gradient(145deg, #fdf2f8, #fce7f3); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-left: 4px solid #EC4899;">
-  <h3 align="center" style="margin-top: 0; color: #9D174D;">🌍 Ackli Holidays</h3>
-  <div align="center" style="margin: 15px 0;">
-    <a href="https://ackliholidays.com" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Live_Demo-45B7D1?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo"/>
-    </a>
-  </div>
-  <p style="text-align: center; margin: 10px 0;"><strong>HTML • CSS • JavaScript</strong></p>
-  <p>Responsive tour booking website with immersive design and seamless mobile experience.</p>
-</div>
-
-<!-- Project Card 4 -->
-<div style="background: linear-gradient(145deg, #fffbeb, #fef3c7); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-left: 4px solid #F59E0B;">
-  <h3 align="center" style="margin-top: 0; color: #B45309;">☕ Café Culture</h3>
-  <div align="center" style="margin: 15px 0;">
-    <a href="https://kgms-projects.github.io/Cafe-website/" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/Live_Demo-D63384?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"/>
-    </a>
-  </div>
-  <p style="text-align: center; margin: 10px 0;"><strong>HTML • CSS • JavaScript</strong></p>
-  <p>Interactive café website showcasing Sri Lankan coffee culture with elegant design patterns.</p>
-</div>
-</div>
-
-<!-- Animated divider -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-top: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KGMS-Projects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KGMS-Projects&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </div>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KGMS-Projects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=📈%20GitHub%20Stats" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KGMS-Projects&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
-<div style="margin: 30px auto; max-width: 600px;">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGMS-Projects&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div style="margin: 30px auto; max-width: 800px;">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KGMS-Projects&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
-<!-- Animated divider -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider">
-</div>
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KGMS-Projects&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGMS-Projects&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages"/>
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=KGMS-Projects&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
 </div>
 
-<!-- Animated divider -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGMS-Projects&theme=tokyo-night&hide_border=true&area=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
-## 📬 Let's Connect & Collaborate!
+### 🏆 GitHub Achievements
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="mailto:mihilayansachinthana@gmail.com" style="transition: all 0.3s ease;">
-    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KGMS-Projects&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌟 What I'm Up To
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Currently+building+scalable+web+applications;🔥+Learning+advanced+Python+and+Data+Science;💡+Contributing+to+open-source+projects;🎯+Preparing+for+Software+Engineering+career;✨+Always+exploring+new+technologies!" alt="Current Focus" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📫 Let's Connect & Collaborate!
+
+<div align="center">
+  <a href="mailto:mihilayansachinthana@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/mihilayan-sachinthana" style="transition: all 0.3s ease;">
-    <img src="https://img.shields.io/badge/-LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mihilayan-sachinthana">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mihilayansachinthana.com" style="transition: all 0.3s ease;">
-    <img src="https://img.shields.io/badge/-Visit%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF6D00" alt="Portfolio"/>
+  <a href="https://mihilayansachinthana.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://wa.me/your-number">
+    <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Always+open+to+interesting+conversations!;Let's+build+something+amazing+together!;Coffee+chat+about+tech%3F+I'm+in!" alt="Connect Message" />
 </div>
 
-<div align="center" style="margin: 30px auto; max-width: 700px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💭 Daily Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Inspirational Quote"/>
 </div>
 
-<div align="center" style="margin: 40px 0 20px; padding: 20px; background: rgba(14, 165, 233, 0.1); border-radius: 12px;">
-  <b style="font-size: 1.2em; background: linear-gradient(45deg, #38BDF8, #0EA5E9, #0284C7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">✨ Thanks for visiting my profile! Let's build something amazing together! ✨</b>
+## 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=✨+Thanks+for+visiting+my+profile!+✨;🚀+Let's+build+something+amazing+together!+🚀;💫+Stay+curious%2C+keep+coding!+💫" alt="Footer Message" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KGMS-Projects.KGMS-Projects&left_color=darkblue&right_color=blue&left_text=Profile%20Views" />
 </div>
