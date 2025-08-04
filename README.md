@@ -43,36 +43,154 @@
 
 <div align="center">
 
-### Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend Technologies
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="TailwindCSS" width="65" height="65" />
+</div>
 
-### Backend Technologies
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### ⚙️ Backend Technologies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+</div>
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 💻 Programming Languages
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="65" height="65" />
+</div>
 
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Databases & Cloud
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+</div>
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 🔧 Tools & Platforms
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+</div>
+
+---
+
+### 🚀 Animated Tech Stack Display
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind&theme=dark" alt="Frontend Skills" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,python,php&theme=dark" alt="Backend Skills" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart&theme=dark" alt="Programming Languages" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql&theme=dark" alt="Databases" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="Tools" />
+</div>
+
+---
+
+### 🌟 Dynamic Skills Visualization
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend%3A+React+%7C+Next.js+%7C+Flutter+%7C+TailwindCSS;Backend%3A+Laravel+%7C+Node.js+%7C+Python+%7C+PHP;Database%3A+MySQL+%7C+Firebase+%7C+PostgreSQL;Tools%3A+Docker+%7C+Git+%7C+VS+Code+%7C+Jira" alt="Skills Animation" />
+</div>
+
+### 🔥 Tech Stack at a Glance
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=React,react,58a6ff;Next.js,nextjs,ffffff;Flutter,flutter,02569b;&line2=Laravel,laravel,ff2d20;Node.js,nodejs,339933;Python,python,3776ab;&line3=MySQL,mysql,4479a1;Docker,docker,2496ed;Git,git,f05032;" alt="Tech Stack Cards" />
+</p>
+
+---
+
+### ⚡ Language Proficiency
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGMS-Projects&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages Donut"/>
+</div>
+
+### 🎯 Skills Progress
+
+<div align="center">
+
+```text
+Frontend Development    ████████████████████░   95%
+Backend Development     ██████████████████░░░   90%
+Mobile Development      █████████████████░░░░   85%
+Database Management     ████████████████░░░░░   80%
+DevOps & Deployment     ██████████████░░░░░░░   70%
+UI/UX Design           █████████████████░░░░   85%
+```
+
+</div>
+
+### 🌈 Interactive Tech Badges
+
+<div align="center">
+  <a href="#" title="React - Building Interactive UIs">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=61DAFB" alt="React" />
+  </a>
+  <a href="#" title="Laravel - Elegant PHP Framework">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20&color=white" alt="Laravel" />
+  </a>
+  <a href="#" title="Flutter - Cross-platform Mobile Apps">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B&color=white" alt="Flutter" />
+  </a>
+  <a href="#" title="Next.js - The React Framework">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000&color=white" alt="Next.js" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="#" title="Python - Versatile Programming">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=white" alt="Python" />
+  </a>
+  <a href="#" title="JavaScript - Language of the Web">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=black" alt="JavaScript" />
+  </a>
+  <a href="#" title="MySQL - Reliable Database">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=white" alt="MySQL" />
+  </a>
+  <a href="#" title="Docker - Containerization Platform">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=white" alt="Docker" />
+  </a>
+</div>
+
+### 🎨 Creative Tech Art
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" alt="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="48" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="48" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="48" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="48" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="48" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" alt="Git" />
+</div>
 
 </div>
 
