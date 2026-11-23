@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=023656d&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Mihilayan+Sachinthana;Full-Stack+Developer+%26+Software+Engineer;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<h3 align="center"> Software Engineer 🎓💻 </h3>
+<h3 align="center"> Software Engineer 💻 </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KGMS-Projects&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -26,10 +26,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year **BEng (Hons) Software Engineering** at **University of Staffordshire** 🇬🇧
+- 🎓 Graduate **BEng (Hons) Software Engineering** at **University of Staffordshire** 🇬🇧
 - 🏠 Based in **Colombo, Sri Lanka** 🇱🇰
 - 💼 Currently working on **eCommerce** and **Business Consultation** platforms
-- 🔥 Passionate about **Full-Stack Development**, **UI/UX Design**, and **Agile Methodologies**
+- 🔥 Passionate about **Full-Stack Development**, **AI & ML**, and **Cloud & DevOps**
 - 🐍 Expanding skills in **Python** for data automation and scripting
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about **React**, **Laravel**, **Flutter**, or **Full-Stack Development**
